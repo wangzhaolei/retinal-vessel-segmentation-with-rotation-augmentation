@@ -3,4 +3,6 @@ The code for "DATA AUGMENTATION IS MORE IMPORTANT THAN MODEL ARCHITECTURES FOR R
 
 
 
-To train the model,,run bash train_1.sh
+To train the model,,
+
+run bash train_1.sh
